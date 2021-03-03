@@ -1,0 +1,39 @@
+{
+  "$schema": "https://cert.arianee.org/version1/ArianeeAsset.json",
+  "name": "Arianee",
+  "v": "0.1",
+  "serialnumber": [
+    {
+      "type": "serialnumber",
+      "value": "1"
+    }
+  ],
+  "brand": "CDProjekt",
+  "model": "Watch me",
+  "description": "Here is the digital passport of your CDProjekt machin truc de nerd. This Smart-Ass has a unique ID.",
+  "type": "SmartAsset",
+  "picture": "https://avatars.githubusercontent.com/u/19539395?s=460&u=0144fd5a35c8f56c8dbb7749772d48bc23c25e67&v=4",
+  "pictures": [
+    {
+      "src": "https://exploratricedesaveurs.files.wordpress.com/2013/02/martine-lasagnes-boeuf-cheval.jpg?w=584"
+    },
+    {
+      "src": "https://static.lexpress.fr/medias_2930/w_600,h_600,c_fill,g_north/v1382711188/cheval-detournement-8_1500640.jpg"
+    }
+  ],
+  "attributes": [],
+  "size": [],
+  "socialmedia": {
+    "instagram": "lalalalainstagram",
+    "twitter": "twitterlalal"
+  },
+  "externalContents": [
+    {
+      "title": "About Pixel",
+      "url": "https://CHAUDDDDDDD",
+      "backgroundColor": "#000",
+      "color": "#FFF"
+    }
+  ],
+  "jsonSurcharger": "url"
+}
