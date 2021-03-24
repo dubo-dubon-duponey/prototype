@@ -1,6 +1,6 @@
 {
   "$schema": "https://cert.arianee.org/version1/ArianeeAsset.json",
-  "name": "Arianee",
+  "name": "Cyberpunk",
   "v": "0.1",
   "serialnumber": [
     {
@@ -10,7 +10,7 @@
   ],
   "brand": "Blonie",
   "model": "T-2077",
-  "description": "The T-2077 watch has been crafted to merge the precise, technological aesthetic of what you’d expect from the latest cyberware with a minimalist veneer which drives home the fact that, to have the edge in the world of 2077, you don’t always have to take it to the extreme.\n\nUnlike military-grade cyberware that is designed to bludgeon, threaten, or manipulate, the T-2077 originates purely from the notion that time is our most powerful weapon. A notion that Błonie, the celebrated Polish watch manufacturer we've teamed up with to create the T-2077, understands very well.\n\nWith the T-2077 on your wrist, you take control as you march forward into the future — one second at a time.\n\nMay it serve you well.",
+  "description": "Cyberware Like No Other\n\nThe T-2077 watch has been crafted to merge the precise, technological aesthetic of what you’d expect from the latest cyberware with a minimalist veneer which drives home the fact that, to have the edge in the world of 2077, you don’t always have to take it to the extreme.\n\nUnlike military-grade cyberware that is designed to bludgeon, threaten, or manipulate, the T-2077 originates purely from the notion that time is our most powerful weapon. A notion that Błonie, the celebrated Polish watch manufacturer we've teamed up with to create the T-2077, understands very well.\n\nWith the T-2077 on your wrist, you take control as you march forward into the future — one second at a time.\n\nMay it serve you well.\n\nItem - Minimum data needed\nName and Model of a product:  T-2077\nPrice: $ 499,00\nTechnical Specifications and Features:\nCase — Pure Grade 2 Titanium;\nMechanism — quartz with a digital LED-type display (yellow);\nGlass — darkened mineral, with additional sapphire coating;\nBracelet — Pure Grade 2 Titanium with butterfly clasp (you are freely able to swap the bracelet with a strap of your own);\nWater Resistance — Up to 5 atmospheres;\nBattery — Model CR2032; lithium manganese dioxide/Organic Electrolyte; 3V, 220mAh, \nDisplay Format — 12 hour and 24 hour options;\nSizes — Adjustable in three sizes; comes with supplemental links (professional service recommended);\nWarranty — 2 years.\nCalendar 2000-2077\nDisplays time, date and seconds, with a choice of 12 or 24 hour format.\n\nDescription of the product EN:  \nThis titanium-based timepiece captures the high-tier style that Night City embodies  – being both a throwback and a celebration of the ultra modern. Paying tribute to the megalopolis of Night City by symbolizing resilience, adaptability, and innovation — all in a sleek form factor. \nCrafted to merge the precise and technological aesthetics that you would expect from the latest minimalist cyberware. This drives home the fact that to have the edge in the world of 2077, you don’t always have to take it to the extreme.\nSetting the Titanium Standard\nThe T-2077 is the epitome of Night City’s very best in minimalist design. Constructed with Grade 2 titanium, it handles the day-to-day demands of Night City life with confidence. Its alluring form — defined by its smooth surface and clean, straight lines — might lead one to  underestimate its robust nature, but that’s precisely where its power lies. The strength of the T-2077 will always give you the edge.\nLightweight and sturdy, the titanium build also contains one more key feature: bio-neutrality. \nSuitable for even the most sensitive skin types, the T-2077 ensures no compatibility issues and allergic reactions, unlike other pieces of steel cyberware you might find elsewhere. \n",
 
   "type": "SmartAsset",
 
@@ -37,15 +37,17 @@
   }],
   "size": [],
   "socialmedia": {
-    "instagram": "lalalalainstagram",
-    "twitter": "twitterlalal"
   },
   "externalContents": [
     {
-      "title": "About Pixel",
-      "url": "https://CHAUDDDDDDD",
+      "title": "Online shop",
+      "url": "https://eu.gear.cdprojektred.com/",
       "backgroundColor": "#000",
       "color": "#FFF"
+    },
+    {
+      "title": "Contact support",
+      "url": "T2077@zegarkiblonie.pl"
     }
   ],
   "jsonSurcharger": "url"
