@@ -1,0 +1,52 @@
+{
+  "$schema": "https://cert.arianee.org/version1/ArianeeAsset.json",
+  "name": "Arianee",
+  "v": "0.1",
+  "serialnumber": [
+    {
+      "type": "serialnumber",
+      "value": "1"
+    }
+  ],
+  "brand": "Błonie",
+  "model": "T-2077",
+  "description": "The T-2077 watch has been crafted to merge the precise, technological aesthetic of what you’d expect from the latest cyberware with a minimalist veneer which drives home the fact that, to have the edge in the world of 2077, you don’t always have to take it to the extreme.\n\nUnlike military-grade cyberware that is designed to bludgeon, threaten, or manipulate, the T-2077 originates purely from the notion that time is our most powerful weapon. A notion that Błonie, the celebrated Polish watch manufacturer we've teamed up with to create the T-2077, understands very well.\n\nWith the T-2077 on your wrist, you take control as you march forward into the future — one second at a time.\n\nMay it serve you well.",
+
+  "type": "SmartAsset",
+
+  "brandLogoHeader": "https://raw.githubusercontent.com/dubo-dubon-duponey/prototype/master/blonie/Blonie_logo_2000_wht.png",
+
+  "picture": "https://raw.githubusercontent.com/dubo-dubon-duponey/prototype/master/blonie/Blonie_brand_picture.jpg",
+  "pictures": [
+    {
+      "src": "https://raw.githubusercontent.com/dubo-dubon-duponey/prototype/master/blonie/Item medias 1.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dubo-dubon-duponey/prototype/master/blonie/Item medias 2.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dubo-dubon-duponey/prototype/master/blonie/Item medias 3.png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/dubo-dubon-duponey/prototype/master/blonie/Item medias 4.png"
+    }
+  ],
+
+  "attributes": [{
+    "color": "#F00"
+  }],
+  "size": [],
+  "socialmedia": {
+    "instagram": "lalalalainstagram",
+    "twitter": "twitterlalal"
+  },
+  "externalContents": [
+    {
+      "title": "About Pixel",
+      "url": "https://CHAUDDDDDDD",
+      "backgroundColor": "#000",
+      "color": "#FFF"
+    }
+  ],
+  "jsonSurcharger": "url"
+}
